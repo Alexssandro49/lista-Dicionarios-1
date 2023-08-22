@@ -1,4 +1,5 @@
 #encoding: latin-1
+#Todas as questões das lista estão implementadas neste mesmo arquivo
 pessoas={'João':32,'Suzan':42,'Leia':52,'José':22,'Raissa':34,'Pedro':25,'Carlos':19,'Beto':56,'Tania':60,'Vitor':12}
 print(pessoas)
 nome=input("Digite um nome: ")
